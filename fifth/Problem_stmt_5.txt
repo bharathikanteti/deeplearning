@@ -1,0 +1,7 @@
+Use the following dataset to classify 12 different animals.
+
+https://www.kaggle.com/piyushkumar18/animal-image-classification-dataset
+
+a. Plot your classification in 3D for the minimum error that you have achieved.
+
+b. Take a picture of yourself and find the closest animal to your features!
